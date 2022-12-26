@@ -8,4 +8,4 @@ Clone [monokai_charcoal_white.yaml](monokai_charcoal_white.yaml) into your `$HOM
 
 ## ~~License~~ Licence
 
-This theme is licensed under WTFPL, checkout out [~~LICENSE~~LICENCE](LICENSE).
+This theme is licensed under WTFPL, checkout out [~~LICENSE~~ LICENCE](LICENSE).
